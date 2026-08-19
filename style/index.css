@@ -55,12 +55,12 @@ main h1 {
 
 /* Animasi pergantian gambar */
 @keyframes changeBackground {
-    0% { background-image: url('img/kids.jpg'); }
-    20% { background-image: url('img/mens.jpg'); }
-    40% { background-image: url('img/women.jpg'); }
-    60% { background-image: url('img/kids.jpg'); }
-    80% { background-image: url('img/mens.jpg'); }
-    100% { background-image: url('img/kids.jpg'); } 
+    0% { background-image: url('img/background2.jpg'); }
+    20% { background-image: url('img/background.jpg'); }
+    40% { background-image: url('img/background1.jpg'); }
+    60% { background-image: url('img/dadu.jpeg'); }
+    80% { background-image: url('img/brisket_slice.jpeg'); }
+    100% { background-image: url('img/ribeye_dadu.jpeg'); } 
 }
 
 

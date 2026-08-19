@@ -19,7 +19,7 @@ $produk_result = mysqli_query($conn, $produk_query);
 <html>
 
 <head>
-    <title><?php echo $look['look_name']; ?> | StyleHeaven</title>
+    <title><?php echo $look['look_name']; ?> | YOSHI MEAT</title>
     <style>
         .container {
             width: 90%;

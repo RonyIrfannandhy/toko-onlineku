@@ -12,7 +12,7 @@ if (!isset($_SESSION['user_id'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>StyleHeaven - Seller</title>
+    <title>Yoshi Meat - Seller</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100..900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
@@ -22,7 +22,7 @@ if (!isset($_SESSION['user_id'])) {
 <body>
     <div class="sidebar">
         <ul>
-            <li><h2>STYLEHEAVEN</h2></li>
+            <li><h2>YOSI MEAT</h2></li>
             <li><a href="dashboard.php" target="frame" class="list-side"><i class="bi bi-file-earmark-bar-graph"></i> Dashboard</a></li>
             <li><a href="manage_product.php" target="frame" class="list-side"><i class="bi bi-box-seam-fill"></i> Manage Product</a></li>
             <li><a href="manage_orders.php" target="frame" class="list-side"><i class="bi bi-card-checklist"></i> Manage Orders</a></li>

@@ -39,7 +39,7 @@ function getProdukByLookId($conn, $look_id)
 <head>
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
-    <title>Style Heaven - Look Collection</title>
+    <title>Yoshi Meat - Loook Quality Collection</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet" />
@@ -65,7 +65,7 @@ function getProdukByLookId($conn, $look_id)
         <section id="hero">
             <div class="hero-background"></div>
             <h2 style="font-size: 2rem; margin-top: 150px; margin-bottom: 0.1em;">SHOP BY LOOKS</h2>
-            <p>Shop by outfit inspiration.</p>
+            <p>Shop by product quality</p>
         </section>
 
         <section id="product">
@@ -99,12 +99,12 @@ function getProdukByLookId($conn, $look_id)
         </section>
 
         <div class="wa">
-            <a href="https://wa.me/6281350060514" target="_blank"><i class="bi bi-whatsapp"></i></a>
+            <a href="https://wa.me/6285602014253" target="_blank"><i class="bi bi-whatsapp"></i></a>
         </div>
     </main>
     
     <footer>
-        <p>Copyright &copy; 2025 Style Heaven. All rights reserved.</p>
+        <p>Copyright &copy; 2026 YOSHI MEAT - DAGING BERKUALITAS, BELANJA LEBIH MUDAH.</p>
     </footer>
 </body>
 

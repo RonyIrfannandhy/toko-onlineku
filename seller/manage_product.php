@@ -153,9 +153,9 @@ if (isset($_POST['submit-edit'])) {
                     <div class="row">
                         <select name="kategori" required>
                             <option value="" disabled selected>Category</option>
-                            <option value="Kids">Kids</option>
-                            <option value="Men">Men</option>
-                            <option value="Women">Women</option>
+                            <option value="Kids">Dadu</option>
+                            <option value="Men">Fillet</option>
+                            <option value="Women">Slice</option>
                         </select>
                     </div>
                     <div id="size-wrapper">
@@ -217,9 +217,9 @@ if (isset($_POST['submit-edit'])) {
                             <div class="row">
                                 <select name="kategori" required>
                                     <option value="" disabled>Category</option>
-                                    <option value="Kids" <?= $p['kategori'] == 'Kids' ? 'selected' : '' ?>>Kids</option>
-                                    <option value="Men" <?= $p['kategori'] == 'Men' ? 'selected' : '' ?>>Men</option>
-                                    <option value="Women" <?= $p['kategori'] == 'Women' ? 'selected' : '' ?>>Women</option>
+                                    <option value="Kids" <?= $p['kategori'] == 'Dadu' ? 'selected' : '' ?>>Dadu</option>
+                                    <option value="Men" <?= $p['kategori'] == 'Fillet' ? 'selected' : '' ?>>Fillet</option>
+                                    <option value="Women" <?= $p['kategori'] == 'Slice' ? 'selected' : '' ?>>Slice</option>
                                 </select>
                             </div>
                             <textarea name="deskripsi" rows="3" required><?= htmlspecialchars($p['deskripsi']) ?></textarea>

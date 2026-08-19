@@ -110,7 +110,7 @@ $result_orders = $stmt_orders->get_result();
     </div>
 
     <footer>
-        <p>&copy; 2025 Style Heaven. All rights reserved.</p>
+        <p>&copy; 2026 YOSHI MEAT - DAGING BERKUALITAS, BELANJA LEBIH MUDAH.</p>
     </footer>
     <script>
         function openOverlay(id) {

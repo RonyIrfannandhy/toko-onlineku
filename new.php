@@ -57,27 +57,27 @@ while ($row = mysqli_fetch_assoc($result)) {
 
         @keyframes changeBackground {
             0% {
-                background-image: url('img/kids.jpg');
+                background-image: url('img/background.jpg');
             }
 
             20% {
-                background-image: url('img/mens.jpg');
+                background-image: url('img/background2.jpg');
             }
 
             40% {
-                background-image: url('img/women.jpg');
+                background-image: url('img/background1.jpg');
             }
 
             60% {
-                background-image: url('img/kids.jpg');
+                background-image: url('img/slice.jpeg');
             }
 
             80% {
-                background-image: url('img/mens.jpg');
+                background-image: url('img/dadu.jpeg');
             }
 
             100% {
-                background-image: url('img/kids.jpg');
+                background-image: url('img/sirloin_fillet.jpeg');
             }
         }
 
@@ -129,9 +129,9 @@ while ($row = mysqli_fetch_assoc($result)) {
                     <label for="order">Category:</label>
                     <select name="order" class="btn-filter" id="category" onchange="applyFilter()">
                         <option value="" <?= ($category == '') ? 'selected' : '' ?>>Default</option>
-                        <option value="Men" <?= ($category == 'Men') ? 'selected' : '' ?>>Men</option>
-                        <option value="Women" <?= ($category == 'Women') ? 'selected' : '' ?>>Women</option>
-                        <option value="Kids" <?= ($category == 'Kids') ? 'selected' : '' ?>>Kids</option>
+                        <option value="Men" <?= ($category == 'Fillet') ? 'selected' : '' ?>>Fillet</option>
+                        <option value="Women" <?= ($category == 'Slice') ? 'selected' : '' ?>>Slice</option>
+                        <option value="Kids" <?= ($category == 'Dadu') ? 'selected' : '' ?>>dadu</option>
                     </select>
 
                     <label for="price">Price:</label>
@@ -162,11 +162,11 @@ while ($row = mysqli_fetch_assoc($result)) {
 
         </section>
         <div class="wa">
-            <a href="https://wa.me/6281350060514" target="_blank"><i class="bi bi-whatsapp"></i></a>
+            <a href="https://wa.me/6285602014253" target="_blank"><i class="bi bi-whatsapp"></i></a>
         </div>
     </main>
     <footer>
-        <p>Copyright &copy; 2025 Style Heaven. All rights reserved.</p>
+        <p>Copyright &copy; 2026 YOSHI MEAT - DAGING BERKUALITAS, BELANJA LEBIH MUDAH.</p>
     </footer>
 </body>
 

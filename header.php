@@ -7,16 +7,16 @@ if (session_status() === PHP_SESSION_NONE) {
 
 <header>
     <div class="top-header">
-        <div class="logo"><a href="index.php">STYLEHEAVEN</a></div>
+        <div class="logo"><a href="index.php">YOSHI MEAT</a></div>
         <div class="menu-toggle" onclick="toggleMenu()">
             <i class="fas fa-bars"></i>
         </div>
     </div>
     
     <nav>
-        <a href="men.php">MEN</a>
-        <a href="women.php">WOMEN</a>
-        <a href="kids.php">KIDS</a>
+        <a href="men.php">FILLET</a>
+        <a href="women.php">SLICE</a>
+        <a href="kids.php">DADU</a>
         <a href="new.php">NEW</a>
         <a href="looklist.php">LOOKS</a>
     </nav>

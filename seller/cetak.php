@@ -94,11 +94,11 @@ $total_penjualan = 0;
 </head>
 
 <body onload="window.print()">
-    <h2>STYLE HEAVEN</h2>
+    <h2>YOSHI MEAT</h2>
     <h3 style="color: darkred;">Penjualan per Barang</h3>
     <div class="info">
         Dari <b><?= htmlspecialchars($from) ?></b> s/d <b><?= htmlspecialchars($to) ?></b>
-        <br><small>Outlet: Medan, Sumatera Utara</small>
+        <br><small>Outlet: Semarang, Jawa Tengah</small>
     </div>
 
 

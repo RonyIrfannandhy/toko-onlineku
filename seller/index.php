@@ -73,7 +73,7 @@
     <!-- Navbar Admin / Seller -->
     <header class="seller-navbar">
         <div class="logo">
-            <a href="../index.php">STYLEHEAVEN <span>| Seller Center</span></a>
+            <a href="../index.php">YOSHI MEAT <span>| Seller Center</span></a>
         </div>
         <nav class="nav-links">
             <a href="../index.php"><i class="fas fa-store"></i> Kembali ke Toko Utama</a>
@@ -125,7 +125,7 @@
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2026 StyleHeaven Seller Portal. All rights reserved.</p>
+        <p>&copy; 2026 YOSHI MEAT - DAGING BERKUALITAS, BELANJA LEBIH MUDAH.</p>
     </footer>
 
 </body>

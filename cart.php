@@ -112,7 +112,7 @@ $result = $stmt->get_result();
                 <img src="img/bca.png" alt="">
                 <div class="text-payment">
                     <H4>Bank BCA</H4>
-                    <P>123-7839-92753 / STYLEHEAVEN</P>
+                    <P>123-7839-92753 / YOSI MEAT</P>
                 </div>
             </div>
             <div class="summary-details">
@@ -151,7 +151,7 @@ $result = $stmt->get_result();
     </div>
 
     <footer>
-        <p>&copy; 2025 Style Heaven. All rights reserved.</p>
+        <p>&copy; 2026 YOSHI MEAT - DAGING BERKUALITAS, BELANJA LEBIH MUDAH.</p>
     </footer>
 
 
